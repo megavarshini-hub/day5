@@ -1,0 +1,24 @@
+
+int main() {
+
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */ 
+    
+
+    
+        int rows;
+        scanf("%d", &rows);
+        for(int a=1;a<=rows;)
+        {
+        for(int b=1;b<=a;b++)
+            
+{
+            if((a+b)%2==0)
+    printf("\1");
+            else
+            }
+                
+             printf("0");
+            }
+            
+    return 0;
+}
